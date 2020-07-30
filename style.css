@@ -1,0 +1,18 @@
+#profile {
+  height: 20em;
+  width: auto;
+  margin: 20px;
+}
+
+.social-media {
+  height: 2em;
+  width: auto;
+  padding-left: 1em;
+  padding-right: 1em;
+  display: inline-block;
+}
+
+.description {
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
